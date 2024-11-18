@@ -1,4 +1,4 @@
-name: "Yay internet!"
+name: "The Know Place Tutoring"
 output_dir: "."
 navbar:
   title: "Home"
@@ -6,9 +6,12 @@ navbar:
     - text: "About"
       href: about.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:<theknowplacetutoring@gmail.com>
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/theknowplace/
+    - icon: fa-youtube fa-lg
+      href: https://youtube.com/@theknowplace1022
 output:
   html_document:
-    theme: cerulean
+    theme: united
+    
