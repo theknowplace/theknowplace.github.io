@@ -1,5 +1,5 @@
 ---
-title: "The Know Place"
+title: "About Us"
 output: 
   html_document: 
     toc: true
