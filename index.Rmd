@@ -1,12 +1,82 @@
 ---
-title: "My awesome website"
+title: "The Know Place"
 output: 
   html_document:
     toc: true
     toc_float: true
-    theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# Overview 
 
-![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+At The Know Place, we are dedicated to empowering students to excel in academics and beyond. Specializing in Digital SAT Preparation and Programming Courses, our mission is to provide personalized, engaging, and effective learning experiences that unlock each student’s full potential.
+
+Our SAT courses are designed with the latest test formats in mind, ensuring students are well-prepared for the challenges of the digital exam. Through interactive lessons, real-time practice tests, and expert guidance, we help students achieve their best scores.
+
+In our programming courses, we foster a passion for technology by teaching coding skills that are practical, in-demand, and future-proof. Whether you’re a beginner learning the basics or an aspiring developer advancing your skills, our curriculum covers a range of languages and concepts tailored to your goals.
+
+With experienced instructors, flexible online schedules, and cutting-edge resources, we create a supportive and results-driven environment where students thrive. Join us, and take the next step in mastering the SAT and programming for a brighter future!
+
+# Fundamentals of R Programming I: Cohort 2 - January 2025
+
+#### Unlock Your Child’s Potential: Enroll in the Fundamentals of R Programming I Course
+
+At The Know Place, we are thrilled to offer your child the opportunity to gain a competitive edge in their academic and professional journey by enrolling in our Fundamentals of R Programming I course. In today’s rapidly advancing world, programming skills are no longer optional; they are essential. By equipping your child with the ability to code in R, one of the most powerful programming languages for data analysis and visualization, you are opening the door to a world of opportunities that can shape their future.
+
+#### Why Learn R Programming?
+
+R is widely used across industries—from healthcare and finance to technology and academic research. Mastering R at a young age will:
+1.	Build Analytical Thinking: Enhance your child’s problem-solving skills by teaching them how to analyze and interpret data.
+2.	Prepare for the Future: R is an essential tool for STEM fields, giving your child an edge in competitive academic and career pathways.
+3.	Boost Academic Performance: Programming fosters creativity, logical reasoning, and discipline, all of which benefit students across subjects.
+
+#### A Platform to Shine: Build a Personal Website Using GitHub
+
+As part of the course, your child will learn how to use GitHub to showcase their programming projects on a personal website. This unique feature offers:
+1.	A Digital Portfolio: A professional, well-maintained website will demonstrate your child’s technical skills and achievements, making them stand out in university applications.
+2.	Increased Scholarship Opportunities: Universities and scholarship committees increasingly value real-world projects. A GitHub portfolio highlights your child’s passion, discipline, and expertise.
+3.	Global Recognition: Potential recruiters and university admissions officers can easily access and appreciate your child’s work, giving them a head start in competitive fields.
+
+#### How This Course Prepares Your Child for Success
+
+Our Fundamentals of R Programming I course is specifically designed for middle and high school students. With engaging, age-appropriate lessons and hands-on projects, your child will:
+•	Learn the fundamentals of programming in R.
+•	Create real-world projects that include data visualizations.
+•	Develop an impressive portfolio hosted on a custom GitHub website.
+
+#### Why Enroll Now?
+
+Starting early is key to success. Universities and employers value applicants who demonstrate initiative and a commitment to learning. By enrolling your child now, you’re giving them the tools to:
+•	Excel in STEM subjects.
+•	Gain confidence in tackling complex challenges.
+•	Build a lasting foundation for academic and career success.
+
+#### Limited Seats Available
+
+Spaces are limited to ensure a high-quality learning experience for every student. Don’t miss this opportunity to invest in your child’s future.
+
+#### Register
+
+To enroll your child or learn more about the course, please contact us using +2348162997083 (Chiomah Ezeomah) or chiomah.ezeomah@gmail.com.
+Together, let’s set your child on a path to success that will open doors to scholarships, prestigious universities, and fulfilling careers.
+
+Classes will be held at Christian Community School, 19 Agadez Crescent, Wuse 2, Abuja and start on the 24th of January 2025 and end on the 1st of March 2025. 
+
+
+# Fundamentals of R Programming I, Cohort 1 - December 2024: 
+
+View Cohort I students projects using the links provided. 
+
+#### View Areetam's Project [Here](https://areetamjed10.github.io/areetamlinusokorie.github.io/index.html)
+
+#### View Abigail's Project [Here](https://ashi828.github.io/abigailkhamofu.github.io/index.html)
+
+#### View Ethan's Project [Here](https://im-unknown-now.github.io/ethanmigombano.github.io/index.html)
+
+#### View Zinga's Project [Here](https://jzkhamofu.github.io/ZingaKhamofu.github.io/index.html)
+
+#### View Roy's Project [Here](https://royfalaye.github.io)
+
+#### View Pheel's Project [Here](https://pheelwesley.github.io/pheelimiyanwesley.github.io/index.html)
+
+
+
